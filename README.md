@@ -1,4 +1,4 @@
-# 🕵️ AI-Generated Face Detector (MobileNetV2 + Tkinter GUI)
+# AI-Generated Face Detector (MobileNetV2 + Tkinter GUI)
 
 A deep learning project that classifies a face image as **real** or **AI-generated (fake)**. It uses transfer learning with a pre-trained MobileNetV2 CNN, and comes with a desktop GUI where you can upload an image and see the prediction with a confidence score.
 
@@ -15,7 +15,6 @@ Built as a final project for a BSCS course.
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Possible Improvements](#possible-improvements)
-- [Author](#author)
 
 ---
 
